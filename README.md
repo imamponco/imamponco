@@ -13,7 +13,7 @@ I'm a **Backend Engineer** passionate about designing and implementing scalable,
 ## 💻 My Daily Foods
 
 - **API Development:** Creating secure, well-documented, and scalable RESTful APIs.
-- **Database Design:** Architecting and optimizing relational and NoSQL databases.
+- **Database Design:** Architecting and optimizing relational databases.
 - **System Optimization:** Enhancing performance and scalability for backend systems.
 - **Architecture Technical Design:** Design best technical architecture of the systems.
 - **Collaboration:** Working in agile teams to deliver quality software solutions.
