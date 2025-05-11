@@ -9,7 +9,7 @@ I'm a **Backend Engineer** passionate about designing and implementing scalable,
 - 🔭 I’m currently working on [NBS](https://nbs.co.id)
 
 
-<p><img align="left" width="100%"  style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=imamponco&show_icons=true&locale=en&layout=compact" alt="imamponco" /></p>
+<p><img align="left" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=imamponco&show_icons=true&locale=en&layout=compact" alt="imamponco" /></p>
 
 <span> </span>
 ## 🚀 My Tools
@@ -38,9 +38,9 @@ Feel free to reach out if you'd like to discuss about backend development, learn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[imamtaufiqponco@gmail.com](mailto:imamtaufiqponco@gmail.com)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="imamtaufiqponco@gmail.com" height="20" width="30"/></a>
+<a href="mailto:imamtaufiqponco@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="imamtaufiqponco@gmail.com" height="20" width="30"/></a>
 <a href="https://linkedin.com/in/imam-taufiq-ponco-utomo-28b56a148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imam-taufiq-ponco-utomo-28b56a148" height="25" width="40" /></a>
-<a href="https://www.youtube.com/c/afterwork-ids" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afterwork-ids" height="30" width="30" /></a>
+<a href="https://www.youtube.com/@afterwork-ids" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afterwork-ids" height="30" width="30" /></a>
 <a href="https://instagram.com/imamponco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imamponco" height="30" width="40" /></a>
 </p>
 
