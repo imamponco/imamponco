@@ -4,10 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imamponco&label=Profile%20views&color=0e75b6&style=flat" alt="imamponco" /> 
 </p>
 
-
 I'm a **Backend Engineer** passionate about designing and implementing scalable, robust, and high-performance backend systems. I specialize in building APIs, managing databases, and optimizing services to meet the demands of modern applications.
 
 - 🔭 I’m currently working on [NBS](https://nbs.co.id)
+
+
+<p><img align="left" width="100%"  style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=imamponco&show_icons=true&locale=en&layout=compact" alt="imamponco" /></p>
 
 <span> </span>
 ## 🚀 My Tools
