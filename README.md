@@ -9,8 +9,6 @@ I'm a **Backend Engineer** passionate about designing and implementing scalable,
 - 🔭 I’m currently working on [NBS](https://nbs.co.id)
 
 
-<p><img align="left" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=imamponco&show_icons=true&locale=en&layout=compact" alt="imamponco" /></p>
-
 <span> </span>
 ## 🚀 My Tools
 
@@ -31,6 +29,8 @@ I'm a **Backend Engineer** passionate about designing and implementing scalable,
 
 
 ## 📫 How to Reach Me
+
+<p><img align="left" width="100%" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=imamponco&show_icons=true&locale=en&layout=compact" alt="imamponco" /></p>
 
 <img src="https://go.dev/images/gophers/ladder.svg" width='1000px' height='250px'>
 
